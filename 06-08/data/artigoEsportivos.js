@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nome":"Bola de Futebol",
+        "categoria": "Bola",
+        "preco": 129.0 
+    },
+
+    {
+        "id": 23,
+        "nome":"Raquete Wilson",
+        "categoria": "Raquete",
+        "preco": 399.99 
+    }
+]
